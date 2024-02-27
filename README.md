@@ -1,4 +1,5 @@
-# ftc_projeto_final
+# FTC_PROJETO_FINAL
+## Sobre o projeto
 Esse projeto foi desenvolvido ao final da disciplina de Python da Comunidade DS. Foi utilizado um dataset retirado do Kaggle, "Zomato Restaurants" que possui dados de restaraurantes ao redor do mundo.
 
 O problema de negócio trazido pelo projeto era que um novo CEO precisava entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a empresa "Fome Zero". Para isso foram feitas perguntas sobre o negócio respondidas previamente no notebook.
@@ -14,3 +15,11 @@ O produto final desse projeto é um painel online, hospedado em uma Cloud e disp
 Podemos concluir que o objetivo desse projeto é criar um conjunto de gráficos e tabelas que exibam as métricas da melhor forma possível para o CEO.
 
 Como melhorias para o próximo passo podemos apontar, reduzir o número de métricas, criar novos filtros e adicionar novas visões de negócios.
+
+## Ferramentas utilizadas
+- Python
+- Jupyter Lab
+- Terminal
+- Streamlit
+- Streamlit Cloud
+- Github
